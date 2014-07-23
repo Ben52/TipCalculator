@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="action_settings">קביעה</string>
+    <string name="app_name">" מחשב כיס טיפ"</string>
+    <string name="calculate">לחשב</string>
+    <string name="tip_percent">הפוך אחוז</string>
+    <string name="total">סיכום</string>
+
+</resources>
